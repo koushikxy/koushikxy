@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ksmaity21@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/x68tp](https://rb.gy/x68tp)
-
 - ⚡ Fun fact **Mood decided my interest**
 
 <h3 align="left">Connect with me:</h3>
