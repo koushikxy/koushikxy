@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Koushik Maity</h1>
-<h3 align="center">Aspiring Full stack developer || UI & UX || B-Tech CSE (Hons.) || XIM University Bhubaneswar</h3>
+<h3 align="center">Aspiring Analyst || B-Tech CSE (Hons.) || XIM University Bhubaneswar</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikxy&label=Profile%20views&color=0e75b6&style=flat" alt="koushikxy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/koushik_xy" target="blank"><img src="https://img.shields.io/twitter/follow/koushik_xy?logo=twitter&style=for-the-badge" alt="koushik_xy" /></a> </p>
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **Font End Development**
 
 - 📫 How to reach me **ksmaity21@gmail.com**
 
