@@ -13,4 +13,4 @@ What drives domestic airfares in India? I cleaned and analysed 300k fares across
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/koushikxy) · [Portfolio](https://koushikmaity.netlify.app/) · ksmaity21@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ksmaity/) · [Portfolio](https://koushikmaity.netlify.app/) · ksmaity21@gmail.com
