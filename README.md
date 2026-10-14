@@ -15,6 +15,9 @@ Who owns India's UPI market? A Power BI dashboard built on 76 months of NPCI dat
 **[Grocery Reorder Analysis](https://github.com/koushikxy/grocery-reorder-analysis)** · SQL
 What makes grocery customers reorder? I loaded 3.4 million orders into MySQL. 59% of items bought are repeats, and 12% of customers place 30% of all orders.
 
+**[Card Payments Dashboard](https://github.com/koushikxy/card-payments-excel-dashboard)** · Excel
+How is UPI changing card payments? An Excel dashboard on RBI bank-wise data. UPI QR codes grew 16.5% in a year while card machines fell 14.7%, and debit cards are now mostly used to withdraw cash.
+
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/ksmaity/) · [Portfolio](https://koushikmaity.netlify.app/) · ksmaity21@gmail.com
