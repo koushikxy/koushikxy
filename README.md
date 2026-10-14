@@ -9,7 +9,11 @@ I'm a data analyst based in Bangalore. I like taking messy real-world data and t
 **[Flight Fare Analysis](https://github.com/koushikxy/flight-price-analysis)** · Python
 What drives domestic airfares in India? I cleaned and analysed 300k fares across 6 airlines and 30 routes. Booking inside 15 days of departure pushes fares up ~1.7x, and the airline you choose changes the price by up to 45% on the same route.
 
-**Currently working on:** a SQL analysis of 3 million grocery orders (what makes customers reorder), and a Power BI dashboard on India's UPI payments market.
+**[UPI Payments Dashboard](https://github.com/koushikxy/upi-payments-dashboard)** · Power BI
+Who owns India's UPI market? A Power BI dashboard built on 76 months of NPCI data. PhonePe and Google Pay handle 78% of transactions, but market concentration is now the lowest it has been since 2020 as newer apps like Navi grow.
+
+**[Grocery Reorder Analysis](https://github.com/koushikxy/grocery-reorder-analysis)** · SQL
+What makes grocery customers reorder? I loaded 3.4 million orders into MySQL. 59% of items bought are repeats, and 12% of customers place 30% of all orders.
 
 ### Contact
 
