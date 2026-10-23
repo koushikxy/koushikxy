@@ -1,4 +1,4 @@
-## Hi, I'm Koushik
+## Hi, I'm Koushik Maity
 
 I'm a data analyst based in Bangalore. I like taking messy real-world data and turning it into clear answers that someone can act on. I have a B.Tech in Computer Science from XIM University, and most recently I worked as a freelance Business Analyst at Turing, evaluating AI model responses and tracking quality metrics.
 
