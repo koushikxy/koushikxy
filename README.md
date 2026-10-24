@@ -21,8 +21,8 @@ Each project has a full write-up on my [portfolio](https://koushikmaity.netlify.
 
 ### Experience
 
-Freelance Business Analyst at Turing (2026): reviewed 200+ AI responses a week against quality criteria, with 92% agreement with senior reviewers.
-B.Tech in Computer Science, XIM University (2025).
+- Freelance Business Analyst at Turing (2026): reviewed 200+ AI responses a week against quality criteria, with 92% agreement with senior reviewers.
+- B.Tech in Computer Science, XIM University (2025).
 
 ### Contact
 
